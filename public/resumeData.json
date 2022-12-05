@@ -100,12 +100,6 @@
   "portfolio": {
     "projects": [
       {
-        "title": "Single Product Landing Page Nextjs",
-        "category": "",
-        "image": "Single Product Landing Page Nextjs.jpeg",
-        "url": "https://interview-project-theta.vercel.app/"
-      },
-      {
         "title": "Instagram Clone",
         "category": "",
         "image": "insta.jpg",
