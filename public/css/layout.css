@@ -41,12 +41,12 @@ header {
    
 }
 
-/* vertically center banner section */
+/* vertically center  section */
 header:before {
    content: '';
    display: inline-block;
    vertical-align: middle;
-   height: 82%;
+   height: 58%;
    
 }
 header .banner {
